@@ -1,2 +1,2 @@
 # Chatbots
-Chatbot using Python and NLTK
+ A simple Self-Learning Chatbot using Python and NLTK
